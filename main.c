@@ -5,5 +5,8 @@ int main(void) {
     if (1 > 0) {
         return 1;
     }
+
+    printf("Faenskap\n");
+
     return 0;
 }
